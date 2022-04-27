@@ -1,0 +1,2 @@
+# excludes all .jar files
+**.jar

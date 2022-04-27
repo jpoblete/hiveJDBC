@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="hive-jdbc-3.1.3000.7.1.7.1000-141-standalone">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/resources/hive-jdbc-3.1.3000.7.1.7.1000-141-standalone.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/src/main/resources/hive-jdbc-3.1.3000.7.1.7.1000-141-standalone.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/resources/hive-jdbc-3.1.3000.7.1.7.1000-141-standalone.jar!/org/apache/hive" />
+    </SOURCES>
+  </library>
+</component>
