@@ -1,0 +1,163 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/hivejdbc/src/main/java/com.example.hive/HiveJDBC42.java" timestamp="1651004531539">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="13" />
+        <mark key="." line="6" column="13" />
+      </file>
+      <file name="$USER_HOME$/hiveJDBC/src/main/java/com.example.hive/HiveJDBC42.java" timestamp="1680906688433">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/JDBC/src/com/cloudera/hive/Main.java" timestamp="1628702617222">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1650403507158">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/hivejdbc/src/main/java/com.example.hive/HiveJdbc.java" timestamp="1650297787158">
+        <mark key="[" line="15" column="34" />
+        <mark key="]" line="41" column="27" />
+        <mark key="^" line="41" column="27" />
+        <mark key="." line="41" column="27" />
+      </file>
+      <file name="$USER_HOME$/hivejdbc/pom.xml" timestamp="1650296534029">
+        <mark key="[" line="35" column="21" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/hiveClient/src/com/example/hive/hiveConnection.java" timestamp="1628712274590">
+        <mark key="[" line="30" column="27" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/hogwarts-challenges/challenges/hive/backend_connectivty/backend.sh" timestamp="1650403396156">
+        <mark key="[" line="114" column="4" />
+        <mark key="]" line="98" column="19" />
+        <mark key="^" line="98" column="19" />
+        <mark key="." line="98" column="19" />
+      </file>
+      <file name="$USER_HOME$/JDBC/src/com/example/jdbc/Main.java" timestamp="1628705482733">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/simpleClient/pom.xml" timestamp="1649863713309">
+        <mark key="[" line="16" column="24" />
+        <mark key="]" line="16" column="24" />
+        <mark key="." line="16" column="24" />
+      </file>
+      <file name="$USER_HOME$/hivejdbc/src/main/resources/META-INF/MANIFEST.MF" timestamp="1650299461845">
+        <mark key="[" line="1" column="37" />
+      </file>
+      <file name="$USER_HOME$/hiveJDBC/pom.xml" timestamp="1680881939168">
+        <mark key="[" line="21" column="32" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/hiveJDBC/src/main/java/com.example.hive/HiveJdbc.java" timestamp="1680879745493">
+        <mark key="[" line="10" column="33" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/simpleClient/src/main/java/com/cloudera/hive/jdbc/simpleClient.java" timestamp="1649865160960">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/hogwarts-challenges/challenges/hive/backend_connectivty/backend.yaml" timestamp="1650466132567">
+        <mark key="[" line="98" column="74" />
+        <mark key="]" line="107" column="0" />
+        <mark key="^" line="100" column="77" />
+        <mark key="." line="107" column="0" />
+      </file>
+      <file name="$USER_HOME$/hiveClient/src/com/example/hive/Main.java" timestamp="1628706337728">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/JDBC/src/com/example/jdbc/hiveConnection.java" timestamp="1628705278615">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1680816499426">
+        <mark key="'" line="0" column="25" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/hiveConnection/src/com/jphelps/Main.java" timestamp="1628704218779">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="32" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="0" column="25" filename="/fragment.java" />
+      <jump line="40" column="52" filename="$USER_HOME$/hivejdbc/src/main/java/com.example.hive/HiveJdbc.java" />
+      <jump line="11" column="38" filename="$USER_HOME$/hivejdbc/src/main/java/com.example.hive/HiveJdbc.java" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9maWx0ZXI+Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9maWx0ZXI+Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZXhjbHVkZXM+Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZXhjbHVkZT4qKi9Mb2c0ajJQbHVnaW5zLmRhdDwvZXhjbHVkZT4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxleGNsdWRlcz4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdD4qOio8L2FydGlmYWN0Pgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGZpbHRlcj4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2ZpbHRlcnM+Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZmlsdGVycz4K</text>
+      </register>
+      <register name=":" type="4">
+        <text>wq!</text>
+      </register>
+      <register name="-" type="4">
+        <text>/</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>w!</entry>
+        <entry>wq!</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
+  </component>
+</application>
