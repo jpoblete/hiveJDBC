@@ -8,10 +8,10 @@
         <mark key="]" line="6" column="13" />
         <mark key="." line="6" column="13" />
       </file>
-      <file name="$USER_HOME$/hiveJDBC/src/main/java/com.example.hive/HiveJDBC42.java" timestamp="1680906688433">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/hiveJDBC/src/main/java/com.example.hive/HiveJDBC42.java" timestamp="1683927300079">
+        <mark key="[" line="13" column="33" />
+        <mark key="]" line="12" column="113" />
+        <mark key="." line="12" column="113" />
       </file>
       <file name="$USER_HOME$/JDBC/src/com/cloudera/hive/Main.java" timestamp="1628702617222">
         <mark key="[" line="0" column="0" />
@@ -62,10 +62,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/hiveJDBC/src/main/java/com.example.hive/HiveJdbc.java" timestamp="1680879745493">
-        <mark key="[" line="10" column="33" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/hiveJDBC/src/main/java/com.example.hive/HiveJdbc.java" timestamp="1683927250783">
+        <mark key="[" line="10" column="126" />
+        <mark key="]" line="10" column="125" />
+        <mark key="." line="10" column="125" />
+        <mark key="^" line="10" column="125" />
       </file>
       <file name="$USER_HOME$/simpleClient/src/main/java/com/cloudera/hive/jdbc/simpleClient.java" timestamp="1649865160960">
         <mark key="[" line="8" column="0" />
@@ -86,7 +87,7 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1680816499426">
+      <file name="/fragment.java" timestamp="1683926854273">
         <mark key="'" line="0" column="25" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
